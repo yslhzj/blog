@@ -1,0 +1,10 @@
+{"score": "9.6", "actor": "张国荣,张丰毅,巩俐", "title": "霸王别姬", "time": "1993-01-01(中国香港)", "image": "http://p1.meituan.net/movie/20803f59291c47e1e116c11963ce019e68711.jpg@160w_220h_1e_1c", "index": "1"}
+{"score": "9.5", "actor": "蒂姆·罗宾斯,摩根·弗里曼,鲍勃·冈顿", "title": "肖申克的救赎", "time": "1994-10-14(美国)", "image": "http://p0.meituan.net/movie/__40191813__4767047.jpg@160w_220h_1e_1c", "index": "2"}
+{"score": "9.1", "actor": "格利高利·派克,奥黛丽·赫本,埃迪·艾伯特", "title": "罗马假日", "time": "1953-09-02(美国)", "image": "http://p0.meituan.net/movie/23/6009725.jpg@160w_220h_1e_1c", "index": "3"}
+{"score": "9.5", "actor": "让·雷诺,加里·奥德曼,娜塔莉·波特曼", "title": "这个杀手不太冷", "time": "1994-09-14(法国)", "image": "http://p0.meituan.net/movie/fc9d78dd2ce84d20e53b6d1ae2eea4fb1515304.jpg@160w_220h_1e_1c", "index": "4"}
+{"score": "9.5", "actor": "莱昂纳多·迪卡普里奥,凯特·温丝莱特,比利·赞恩", "title": "泰坦尼克号", "time": "1998-04-03", "image": "http://p0.meituan.net/movie/11/324629.jpg@160w_220h_1e_1c", "index": "5"}
+{"score": "9.4", "actor": "汤姆·汉克斯,罗宾·怀特,加里·西尼斯", "title": "阿甘正传", "time": "1994-07-06(美国)", "image": "http://p0.meituan.net/movie/53/1541925.jpg@160w_220h_1e_1c", "index": "6"}
+{"score": "9.3", "actor": "马龙·白兰度,阿尔·帕西诺,詹姆斯·凯恩", "title": "教父", "time": "1972-03-24(美国)", "image": "http://p0.meituan.net/movie/92/8212889.jpg@160w_220h_1e_1c", "index": "7"}
+{"score": "9.2", "actor": "日高法子,坂本千夏,糸井重里", "title": "龙猫", "time": "1988-04-16(日本)", "image": "http://p0.meituan.net/movie/99/678407.jpg@160w_220h_1e_1c", "index": "8"}
+{"score": "9.2", "actor": "周星驰,巩俐,郑佩佩", "title": "唐伯虎点秋香", "time": "1993-07-01(中国香港)", "image": "http://p0.meituan.net/movie/62/109878.jpg@160w_220h_1e_1c", "index": "9"}
+{"score": "9.3", "actor": "柊瑠美,入野自由,夏木真理", "title": "千与千寻", "time": "2001-07-20(日本)", "image": "http://p0.meituan.net/movie/9bf7d7b81001a9cf8adbac5a7cf7d766132425.jpg@160w_220h_1e_1c", "index": "10"}
